@@ -286,21 +286,6 @@ Premium templates
 
 White-label solutions
 
-🤝 Contributing
-We welcome contributions! Here's how to get started:
-
-bash
-# Fork the repository
-git fork https://github.com/yourusername/pitch-deck-enhancer
-
-# Create feature branch  
-git checkout -b feature/amazing-feature
-
-# Make changes and test
-python test_api.py
-streamlit run app.py
-
-
 📄 License
 MIT License - see LICENSE file for details.
 
